@@ -1,0 +1,19 @@
+Algoritmo Hora de Acordar
+
+INICIO
+	01. Se Despertador ativado
+		01. Acordar
+		02. Abrir os olhos
+		03. Levantar
+		04. Caminhar até o local banheiro	
+		05. Lavar o rosto
+		06. Secar o rosto
+		07. Escovar os dentes
+		08. Caminhar até o quarto
+		09. Se dia de sol
+			01. Abrir janela
+		10. Se dia de chuva
+			01. Manter janela fechada
+	02. Se despertador desativado
+		01. Dormir
+FIM
