@@ -1,7 +1,7 @@
 package br.com.luizcarlos;
 
 /**
- * Aqui temos o resultado do uso do Factory Method que encapsula a lógica de criação de objetos
+ * Aqui temos o resultado do uso do Abstract Factory Method que encapsula a lógica de criação de objetos
  * em subclasses.
  * Temos dois tipos de documento, PDF e WORD. A classe abstrada CriadorDeDocumento
  * define o Factory Method '.criarDocumento()' que as subclasses concretas
